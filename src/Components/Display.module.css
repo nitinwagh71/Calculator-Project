@@ -1,0 +1,10 @@
+.display {
+  margin: 10px;
+  font-size: 27px;
+}
+
+.display input {
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}

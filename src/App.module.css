@@ -1,0 +1,14 @@
+.container {
+  border: 1px solid rgb(82, 78, 78);
+  width: 350px;
+  padding: 7px;
+  border-radius: 10px;
+  background-color: #494f5791;
+}
+
+.heading {
+  color: #000000d6;
+  font-size: 35px;
+  font-weight: lighter;
+  font-family: initial;
+}
